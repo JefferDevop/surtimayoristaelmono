@@ -70,7 +70,7 @@ export function FooterApp() {
 
         <BtnLink
           link={
-            "https://naciotexdistribuidora.catalogointeractivo.com.co/admin-dashboard/"
+            "https://testing.soluciones.today/admin-dashboard/"
           }
           title={"ADMI"}
           logo={<CiUser size={20} />}

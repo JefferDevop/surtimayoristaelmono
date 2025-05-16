@@ -60,7 +60,7 @@ export default function HomePage() {
        <Redes />        
          
           <ListCategories categories={categories} />
-          <ListVideos videos={videos} />
+          {/* <ListVideos videos={videos} /> */}
           {/* <Promotion products={products} /> 
           <Exclusive products={products} /> */}
           <FooterApp />
