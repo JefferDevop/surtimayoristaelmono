@@ -24,9 +24,9 @@ export function Footer() {
   return (
     <div className={styles.footer}>
       <div>
-        <div className={styles.content}>
-          <h6>SOBRE NOSOTROS</h6>
-          <div className={styles.link}>
+        {/* <div className={styles.content}> */}
+          {/* <h6>SOBRE NOSOTROS</h6> */}
+          {/* <div className={styles.link}>
             <p>
               <Link href="/about">Nosotros</Link>
             </p>
@@ -36,8 +36,8 @@ export function Footer() {
             {/* <p>
             <Link href="/">Productos</Link>
           </p> */}
-          </div>
-        </div>
+          {/* </div>  */}
+        {/* </div> */}
 
         <h6>CATEGORÍAS</h6>
         <div className={styles.link}>
@@ -50,7 +50,7 @@ export function Footer() {
       </div>
       <div>
         <p className={styles.copyright}>
-        SURTI MAYORITA EL MONO Copyright © 2024. Todos los derechos
+        SURTIMAYORITA EL MONO Copyright © 2024. Todos los derechos
           reservados <br />
           Desarrollado por: SUPRAINNOVATIONS <br />
           Cel: 300 530 9990

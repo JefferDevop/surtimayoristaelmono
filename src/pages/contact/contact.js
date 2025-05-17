@@ -5,8 +5,8 @@ export default function ContactHome() {
   return (
     <>
       <BasicLayout>
-        <Redes />
-        <Contact />
+        {/* <Redes /> */}
+        {/* <Contact /> */}
 
         <Footer />
       </BasicLayout>
