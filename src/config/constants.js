@@ -1,5 +1,5 @@
 
- export const BASE_API = "https://testing.soluciones.today"
+ export const BASE_API = "https://testing.kiwisoft.com.co"
 
 export const SEARCH_HISTORY = "search-history";
 export const CART = "cart";
